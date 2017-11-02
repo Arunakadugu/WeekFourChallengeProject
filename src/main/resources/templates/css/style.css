@@ -1,0 +1,14 @@
+.entry {
+    width:720px;
+    display: block;
+    padding-top:55px;
+    clear: both;
+    margin-left:4px;
+}
+h4{
+    color: tomato;
+}
+
+span{
+    color:tomato;
+}
